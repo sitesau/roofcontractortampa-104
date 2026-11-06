@@ -1,0 +1,22 @@
+{
+  "wheel_id": 791,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-104",
+  "project": "roof-repairs-tampa-checklist-8f2605247938d6fab20c54d2b18964d62f",
+  "parent_t1_ref": "roofcontractortampa-151",
+  "node_role": "feeder",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repairs tampa checklist",
+  "intended_url": "https://sites-e470-2.web.app/roof-repairs-tampa-checklist-8f2605247938d6fab20c54d2b18964d62f/",
+  "tier": "T2",
+  "writeback_nonce": "c0e1ff9863407f71",
+  "links": [
+    {
+      "target_url": "http://roof-repairs-tampa-81ea036860b50d95c2fe53eedaea8eca6b7448ea.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the roof repairs tampa overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
